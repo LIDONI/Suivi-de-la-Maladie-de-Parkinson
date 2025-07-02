@@ -27,3 +27,11 @@ Scikit-learn (modélisation)
 
 Matplotlib, Seaborn (visualisation)
 
+## 👤 Auteur
+
+**khalid OURO-ADOYI**  
+
+Data Analyst & Engineer | Développeur Power BI ,Qlik sense 
+
+📧 Email : khalidouroadoyi@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/khalid-ouro-adoyi/) | [GitHub](https://github.com/LIDONI)
